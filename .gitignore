@@ -15,7 +15,6 @@ pids
 # Dependency directories
 node_modules
 jspm_packages
-assets
 
 # Optional npm cache directory
 .npm
