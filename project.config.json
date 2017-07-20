@@ -1,0 +1,12 @@
+{
+  "project": {
+    "name": "proj trump world favorability",
+    "slug": "proj-trump-world-favorability",
+    "description": ""
+  },
+  "s3": {
+    "bucket": "graphics.axios.com",
+    "folder": "2017-07-20-proj-trump-world-favorability"
+  },
+  "files": []
+}

@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'liberationmono';
+  src: url('https://static.axios.com/fonts/liberationmono-regular-webfont.eot');
+  src: url('https://static.axios.com/fonts/liberationmono-regular-webfont.eot?#iefix') format('embedded-opentype'),
+       url('https://static.axios.com/fonts/liberationmono-regular-webfont.woff') format('woff'),
+       url('https://static.axios.com/fonts/liberationmono-regular-webfont.ttf') format('truetype'),
+       url('https://static.axios.com/fonts/liberationmono-regular-webfont.svg#liberation_monoregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+    font-family: 'liberation_monobold';
+    src: url('https://static.axios.com/fonts/LiberationMono-Bold-webfont.eot');
+    src: url('https://static.axios.com/fonts/LiberationMono-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://static.axios.com/fonts/LiberationMono-Bold-webfont.woff') format('woff'),
+         url('https://static.axios.com/fonts/LiberationMono-Bold-webfont.ttf') format('truetype'),
+         url('https://static.axios.com/fonts/LiberationMono-Bold-webfont.svg#liberation_monobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+html, body {
+  background-color: white;
+  width: auto;
+  height: auto;
+}
+::selection {
+  background: #5827AE;
+  color: #FFF;
+  text-shadow: none;
+}
